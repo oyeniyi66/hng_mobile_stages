@@ -9,7 +9,5 @@ This repository contains a Flutter app that provides links to the GitHub reposit
 
 ## Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/oyeniyi66/repository-name.git
+   git clone https://github.com/oyeniyi66/hng_mobile_stages.git
    cd repository-name
