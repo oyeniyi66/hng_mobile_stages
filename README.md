@@ -1,4 +1,4 @@
-# Git-ting Started Flutter App
+# Mobile_App
 
 This Flutter mobile app demonstrates the integration of a simple UI linked to the GitHub repository and the HNG platform.
 
